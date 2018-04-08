@@ -1,0 +1,74 @@
+
+body {
+  background-color: bisque;
+}
+
+.box {
+  display: inline-block;
+  border: 1px solid black;
+  width: 15px;
+  height: 15px;
+  margin-left: -1px;
+  margin-bottom: -1px;
+}
+
+.off {
+  background-color: crimson;
+}
+
+.on {
+  background-color: bisque;
+}
+.btn-secondary {
+  background-color: crimson;
+}
+.btn-secondary:active {
+    background-color: crimson;
+}
+.btn-group.open button.btn { background: red; }
+
+.btn-secondary:hover {
+  background-color: crimson;
+}
+
+dropdown-menu {
+    background-color: crimson;
+    color:crimson;
+}
+
+.box:hover {
+  background: aquamarine;
+}
+
+.center {
+  margin: auto ;
+  display: table;
+  margin-top: 10px;
+}
+.info{
+    color: crimson;
+    margin: auto;
+    text-align: left;
+    width: 50%;
+    margin-top: 10px;
+}
+
+.grid {
+  width: 150px;
+  line-height: 0;
+  margin: auto;
+  box-shadow: 0px 0px 20px white;
+  margin-top: 40px;
+}
+
+h1, h2, h3, h4 {
+  color: crimson;
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  margin-top: 10px;
+}
+
+h4 {
+  margin-top: 0px;
+}
